@@ -21,7 +21,10 @@ alias o="open ." # Open the current directory in Finder
 # Git Aliases
 # ----------------------
 alias gaa='git add .'
+alias gb='git branch'
+alias gco='git checkout'
+alias gc='git commit'
 alias gcm='git commit -m'
-alias gpsh='git push'
+alias gp='git push'
 alias gss='git status -s'
 alias gs='echo ""; echo "*********************************************"; echo -e "   DO NOT FORGET TO PULL BEFORE COMMITTING"; echo "*********************************************"; echo ""; git status'
