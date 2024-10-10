@@ -20,6 +20,7 @@ alias o="open ." # Open the current directory in Finder
 # ----------------------
 # Git Aliases
 # ----------------------
+alias gl='git log'
 alias gaa='git add .'
 alias gb='git branch'
 alias gco='git checkout'
